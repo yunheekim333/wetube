@@ -1,0 +1,64 @@
+/* body{
+    background-color:beige;
+} */
+
+/* #day 5, #3.7 */
+
+/* 여기서 배경을 꾸며준다, active 는 클래스다
+*/
+/* 
+h1 {
+    color: cornflowerblue;
+    transition: color .5s ease-in-out;
+}
+
+
+/* .active {
+    color: tomato;
+} */
+
+/* .clicked {
+    color: tomato;
+}
+
+/* 흔히하는 실수 */
+
+/* .sexy-font {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} */ 
+
+/* 5일차 과제 */
+/* 
+.wide {
+    background-color: darksalmon;
+}
+
+.middle {
+        background-color: lightpink;      
+}
+
+.narrow {
+     background-color: darkolivegreen;
+}
+ */
+
+
+/* //----------------------DAY 7 ----------------------  */
+/* 
+/* #4.4 로그인 박스 값 없애기 1번 */
+/*html body 값 안에 class="hidden" 추가 */
+
+.hidden{
+    display: none;
+}
+
+body{
+    background-color: grey;
+}
+
+
+
+/* 
+body{
+    background : linear-gradient(45deg, red, blue);
+} */
